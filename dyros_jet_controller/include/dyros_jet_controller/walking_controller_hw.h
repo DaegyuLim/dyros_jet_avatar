@@ -192,7 +192,7 @@ private:
   double target_z_;
   double target_theta_;
   double total_step_num_;
-  double current_step_num_;
+  int current_step_num_;
   int foot_step_plan_num_;
   int foot_step_start_foot_;
   bool walkingPatternDCM_;

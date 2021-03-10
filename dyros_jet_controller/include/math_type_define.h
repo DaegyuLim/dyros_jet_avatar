@@ -7,6 +7,7 @@
 
 #include <Eigen/Dense>
 #include <unsupported/Eigen/MatrixFunctions>
+#include <vector>
 
 #define GRAVITY 9.80665
 #define MAX_DOF 50U
